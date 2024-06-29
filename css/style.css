@@ -28,3 +28,16 @@ a {
   color: #FFFFFF;
   padding: 4px;
 }
+
+a:hover {
+  font-style: italic;
+}
+
+a:visited {
+  color: #999999
+}
+
+a:active {
+  background-color: #00008B;
+  color: rgb(173, 216, 230)
+}
