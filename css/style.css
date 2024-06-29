@@ -1,0 +1,16 @@
+/* Page-Wide */
+body {
+  background-color: rgb(173, 216, 230);
+  color: darkblue;
+  padding: 8px;
+}
+
+/* Paragraph Content */
+.text {
+  background-color: #00008B;
+  color: rgb(173, 216, 230);
+  padding: 8px;
+}
+
+
+/* "Read More!" Link */
