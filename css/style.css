@@ -22,3 +22,9 @@ p::first-letter {
 
 
 /* "Read More!" Link */
+
+a {
+  background-color: rgb(75,83,32);
+  color: #FFFFFF;
+  padding: 4px;
+}
