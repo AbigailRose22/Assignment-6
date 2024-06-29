@@ -3,14 +3,7 @@ body {
   background-color: rgb(173, 216, 230);
   color: darkblue;
   padding: 8px;
-  // <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 400
-
-.playwrite-ng-modern-<uniquifier> 
-  font-family: "Playwrite NG Modern", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+  
 }
 
 
